@@ -2,13 +2,6 @@
 
 pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(EUC-JP).
 
-  
-
-
-  
-📍[pixel32 Online Sample (host by vercel)](https://pix32.vercel.app/)  
-
-
 ## 更新记录
 - v1.9.7 Completed EUC-JP Subtable E、F;
 - v1.9.6 Completed EUC-JP Subtable D;

@@ -44,10 +44,10 @@ Modify some character strokes
 
 # Download
 
-- [Download pix32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [Download pix32.otf (OpenType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [Download pix32.woof (Web Open Font)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [Download pix32.woof2 (Web Open Font2)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pix32.ttf (TrueType)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [Download pix32.otf (OpenType)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [Download pix32.woof (Web Open Font)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [Download pix32.woof2 (Web Open Font2)](https://github.com/32comic/pixel32-pixel-font/releases)
 
 ## License and Pricing
 
@@ -67,10 +67,10 @@ Modify some character strokes
 
 # 字体下载
 
-- [下载 pix32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [下载 pix32.otf (OpenType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [下载 pix32.woof (Web Open Font)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [下载 pix32.woof2 (Web Open Font2)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pix32.ttf (TrueType)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [下载 pix32.otf (OpenType)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [下载 pix32.woof (Web Open Font)](https://github.com/32comic/pixel32-pixel-font/releases)
+- [下载 pix32.woof2 (Web Open Font2)](https://github.com/32comic/pixel32-pixel-font/releases)
 
 ## 授权与价格
 
@@ -84,4 +84,4 @@ Modify some character strokes
 
 ## 版权声明
 
-Pix32 为 JobYu 具有完全自主知识产权的产品，受《中华人民共和国著作权法》和其它知识产权法律法规及国际公约、条约的保护。若非获得 JobYu 的明确许可，不可在授权限以外范围使用本产品。 同时禁止对本字体进行修改、反编译、转换、拆分等反向操作（所有授权版本均不允许），及非法传播、出售、出租或以其它方式从中牟利。JobYu 对上述行为者保留起诉权利。
+Pix32 为 32comic 具有完全自主知识产权的产品，受《中华人民共和国著作权法》和其它知识产权法律法规及国际公约、条约的保护。若非获得 32comic 的明确许可，不可在授权限以外范围使用本产品。 同时禁止对本字体进行修改、反编译、转换、拆分等反向操作（所有授权版本均不允许），及非法传播、出售、出租或以其它方式从中牟利。32comc 对上述行为者保留起诉权利。

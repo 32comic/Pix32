@@ -2,7 +2,7 @@
 
 ## English
 
-**Copyright (c) 2024 JobYu. All Rights Reserved.**
+**Copyright (c) 2024 32comic. All Rights Reserved.**
 
 Thank you for using Pix32 Font! Please read this license agreement carefully.
 
@@ -24,7 +24,7 @@ This includes, but is not limited to:
 
 **3. Obtaining a Commercial License:**
 
-To obtain a commercial license, please contact JobYu via:
+To obtain a commercial license, please contact 32comic via:
 *   **Email:** `info@pixelart.tech`
 *   **WeChat:** `pixelfish`
 
@@ -48,7 +48,7 @@ The Pix32 font is a product of JobYu and is protected by copyright laws and inte
 
 **Pix32 字体 - 许可协议**
 
-**版权所有 (c) 2024 JobYu。保留所有权利。**
+**版权所有 (c) 2024 32comic。保留所有权利。**
 
 感谢您使用 Pix32 字体！请仔细阅读本许可协议。
 
@@ -70,7 +70,7 @@ Pix32 字体在以下情况下 **免费**：
 
 **3. 获取商业授权：**
 
-如需商业授权，请通过以下方式联系 JobYu：
+如需商业授权，请通过以下方式联系 32comic：
 *   **Email:** `info@pixelart.tech`
 *   **微信：** `pixelfish`
 
@@ -86,7 +86,7 @@ Pix32 字体在以下情况下 **免费**：
 
 **5. 知识产权：**
 
-Pix32 字体为 JobYu 的产品，受著作权法及国际知识产权条约的保护。未经授权使用、复制或分发本字体或其任何部分，可能会导致严厉的民事和刑事处罚，并将在法律允许的最大范围内受到起诉。JobYu 保留本协议未明确授予的所有权利。
+Pix32 字体为 32comic 的产品，受著作权法及国际知识产权条约的保护。未经授权使用、复制或分发本字体或其任何部分，可能会导致严厉的民事和刑事处罚，并将在法律允许的最大范围内受到起诉。32comic 保留本协议未明确授予的所有权利。
 
 ---
 
@@ -94,7 +94,7 @@ Pix32 字体为 JobYu 的产品，受著作权法及国际知识产权条约的�
 
 **Pix32 字型 - 授權協議**
 
-**版權所有 (c) 2024 JobYu。保留所有權利。**
+**版權所有 (c) 2024 32comic。保留所有權利。**
 
 感謝您使用 Pix32 字型！請仔細閱讀本授權協議。
 
@@ -116,7 +116,7 @@ Pix32 字型在以下情況下 **免費**：
 
 **3. 獲取商業授權：**
 
-如需商業授權，請透過以下方式聯繫 JobYu：
+如需商業授權，請透過以下方式聯繫 32comic：
 *   **Email:** `info@pixelart.tech`
 *   **微信 (WeChat)：** `pixelfish`
 
@@ -132,4 +132,4 @@ Pix32 字型在以下情況下 **免費**：
 
 **5. 智慧財產權：**
 
-Pix32 字型為 JobYu 的產品，受著作權法及國際智慧財產權條約的保護。未經授權使用、複製或分發本字型或其任何部分，可能會導致嚴厲的民事和刑事處罰，並將在法律允許的最大範圍內受到起訴。JobYu 保留本協議未明確授予的所有權利。
+Pix32 字型為 32comic 的產品，受著作權法及國際智慧財產權條約的保護。未經授權使用、複製或分發本字型或其任何部分，可能會導致嚴厲的民事和刑事處罰，並將在法律允許的最大範圍內受到起訴。32comic 保留本協議未明確授予的所有權利。

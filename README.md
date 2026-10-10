@@ -1,8 +1,8 @@
 # Pix32-pixel-font
 
-pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(EUC-JP).
+pix32 is a pixel font, supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(EUC-JP).
 
-## 更新记录
+## Update History
 - v1.9.7 Completed EUC-JP Subtable E、F;
 - v1.9.6 Completed EUC-JP Subtable D;
 - v1.9.5 Modified the size and dimensions of both numbers and English characters.
@@ -12,33 +12,33 @@ Modify some character strokes
 - v1.9.2 Completed EUC-JP Subtable C; modified some Big5 character strokes
 - v1.9.1 Completed EUC-JP Subtable A, B; modified some Big5 character strokes
 - Update OTF、WOOF、WOOF2 Format
-- v1.9.0 完成 Big5 Subtable F0-F9；修改GB2312部分字符笔画
-- v1.8.0 完成 Big5 Subtable E0-EF；修改GB2312部分字符笔画
-- v1.7.0 完成 Big5 Subtable D0-DF；修改GB2312部分字符笔画
-- v1.6.0 完成 Big5 Subtable C0-CF；修改GB2312部分字符笔画
-- v1.5.9 完成 Big5 Subtable BA-BF；修改GB2312部分字符笔画
-- v1.5.8 修改部分字符笔画 U+9A8A 骊
-- v1.5.7 修改部分字符笔画 U+0020 U+0067 U+006A
-- v1.5.6 谁 U+8C01 调 U+8C03 四 U+56DB 囚 U+56DA 匹 U+5339
-- v1.5.5 U+597D 好 U+7684 的 U+53E3 口 U+5F00 开 U+5bb6 家 U+56db 四 U+6700 最
+- v1.9.0 Completed Big5 Subtable F0-F9
+- v1.8.0 Completed Big5 Subtable E0-EF
+- v1.7.0 Completed Big5 Subtable D0-DF
+- v1.6.0 Completed Big5 Subtable C0-CF
+- v1.5.9 Completed Big5 Subtable BA-BF
+- v1.5.8 Modified U+9A8A 骊
+- v1.5.7 Modified U+0020 U+0067 U+006A
+- v1.5.6 Modified 谁 U+8C01 调 U+8C03 四 U+56DB 囚 U+56DA 匹 U+5339
+- v1.5.5 Modified U+597D 好 U+7684 的 U+53E3 口 U+5F00 开 U+5bb6 家 U+56db 四 U+6700 最
 - v1.5.4 The adjustment of a single word is finished, and then the words need to be adjusted into a large block of text.
 - v1.5.3 Modify some character strokes
 - v1.5.2 Modify some character strokes
 - v1.5.1 Modify some character strokes
 - v1.5.0 Modify some character strokes
-- v1.4.6 修改部分字符笔画：U+4e54 乔，U+4e9a 亚，U+4e8f 亏，U+4EB3 毫
-- v1.4.5 修改部分字符笔画
-- v1.4.4 修改部分字符笔画
-- v1.4.3 修改部分字符笔画
-- v1.4.1 更新半角、全角空格
-- v1.3 修改部分字符笔画
-- v1.2 修改部分字符笔画
-- v1.1 补全遗漏的字符
-- v1.0 完成GB2312字符
+- v1.4.6 Modified：U+4e54 乔，U+4e9a 亚，U+4e8f 亏，U+4EB3 毫
+- v1.4.5 Modified characters
+- v1.4.4 Modified characters
+- v1.4.3 Modified characters
+- v1.4.1 Updated half-width and full-width spaces
+- v1.3 Modified characters
+- v1.2 Modified characters
+- v1.1 Modified characters
+- v1.0 Completed GB2312 characters
 
 ## Font Info
 
-- Name: Pix32 (三二像素体）
+- Name: Pix32 
 - Size: 12px (11px + 1px padding)
 - Char Total: 13060 Chinese characters (English / Simplified Chinese GB2312 / Traditional Chinese big5 )
 

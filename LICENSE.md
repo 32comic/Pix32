@@ -26,7 +26,7 @@ This includes, but is not limited to:
 
 To obtain a commercial license, please contact 32comic via:
 *   **Email:** `info@pixelart.tech`
-*   **WeChat:** `pixelfish`
+*   **Email:** `pixel32@mail.grokbot.com`
 
 Upon payment, a formal license agreement will be provided. Invoices can be issued if required.
 
@@ -72,7 +72,7 @@ Pix32 字体在以下情况下 **免费**：
 
 如需商业授权，请通过以下方式联系 32comic：
 *   **Email:** `info@pixelart.tech`
-*   **微信：** `pixelfish`
+*   **Email:** `pixel32@mail.grokbot.com`
 
 字体付费后，您将收到一份正式的授权协议。如有需要，可开具发票。
 
@@ -118,7 +118,7 @@ Pix32 字型在以下情況下 **免費**：
 
 如需商業授權，請透過以下方式聯繫 32comic：
 *   **Email:** `info@pixelart.tech`
-*   **微信 (WeChat)：** `pixelfish`
+*   **Email:** `pixel32@mail.grokbot.com`
 
 字型付費後，您將收到一份正式的授權協議。如有需要，可開立發票。
 
